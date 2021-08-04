@@ -2,7 +2,7 @@
 
 ## Problem Domain
 
-Building out a wireframe.
+Practice building out a wireframe.
 
 - Adding in placeholder images.
   Utilize [Placeholder](www.placeholder.com)
@@ -12,6 +12,8 @@ Building out a wireframe.
   overflow: scroll;
 
 - Filler text such as lorem ipsum.
+
+- Remember to ACP
 
 Author: Misti Dinzy
 08/04/2021
