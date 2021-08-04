@@ -3,36 +3,89 @@
 }
 
 body{
-  background-color: #797979;
-  width: 1200px;
+  background-color: #ffffff;
   margin: 0 auto;
 }
 
 header {
   background-color: #333;
-  width: 960px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 nav{
-  background-color: #c0c0c0c0;
+  margin-left: 280px;
 }
 
+ul{
+  list-style-type: none;
+}
 
-#sectionFour{
+li{
+  text-align: center;
+  display: inline-block;
+}
+
+a{
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+main{
+  width: 960px;
+  margin: 0 auto;
+}
+
+#heroImg{
+  margin-bottom: 30px;
+}
+
+#subBanners{
+  height: 375px;
+}
+
+#subBan1{
+  width: 300px;
+  height: 375px;
+  margin-right: 15px;
+}
+
+#subBan2{
+  width: 300px;
+  height: 375px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+#subBan3{
+  width: 300px;
+  height: 375px;
+  margin-left: 11px;
+  position: absolute;
+}
+
+#featureBan{
   float: left;
+  margin-right: 30px;
+}
+
+#featureFiller{
+  width: 960px;
+  margin-top: 30px;
 }
 
 #cupcakeIpsum{
-  width: 480px;
+  width: 450px;
   height: 400px;
   overflow-y: scroll;
 }
-
 
 footer {
   clear:both;
   background-color: #797979;
   text-align: center;
+  margin-top: 30px;
   margin-bottom: 200px;
   padding: 30px;
 }
